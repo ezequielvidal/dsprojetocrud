@@ -1,0 +1,5 @@
+package com.devsuperior.dsprojetocrud.entities;
+
+public class Client {
+
+}
