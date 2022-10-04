@@ -1,4 +1,4 @@
-package com.devsuperior.dsprojetocrud.exceptions;
+package com.devsuperior.dsprojetocrud.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
 	private static final long serialVersionUID = 1L;

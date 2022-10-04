@@ -1,4 +1,4 @@
-package com.devsuperior.dsprojetocrud.exceptions;
+package com.devsuperior.dsprojetocrud.services.exceptions;
 
 public class DatabaseException extends RuntimeException {
 	private static final long serialVersionUID = 1L;
